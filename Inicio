@@ -6,7 +6,6 @@ addpage('url','');
 addpage('url','');
 addpage('url','');
 addpage('url','');
-addpage('url','');
 </script><br />
 <a href="javascript:void(showPrevious());">Prev</a>&nbsp;&nbsp;&nbsp;<span id="index"></span>&nbsp;&nbsp;&nbsp;<a href="javascript:void(showNext());">Next</a><br />
 <div align="center">
