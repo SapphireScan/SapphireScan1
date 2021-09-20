@@ -1,31 +1,22 @@
-<html lang="en"><head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>I'm The Great Immortal</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body><nav>
-    <div class="volver">
-    <a href="./index.html">Inicio</a>
-</div>    
-</nav>
-
-    <div class="contenedor-general">
-        <div class="img-manhua-contenedor">
-           <a href="./immortal.html"><img src="img/immortal.jpg" alt=""></a> 
-           <a href="">I'm The Great Immortal</a>
-        </div>
-        <div class="img-manhua-contenedor">
-            <a href="./an-urban-cultivation-frenzy.html"><img src="img/an-urban.jpg" alt=""></a> 
-            <a href="">An Urban Cultivation Frenzy</a>
-            
-        </div>
-
-    </div>
-    <div class="contenedor-general">
-        <p>Las traducciones no son oficial, solo lo hago por gusto y lo comparto con ustedes, espero que lo disfruten </p>
-    </div>
-
-
-</body></html>
+<table border='0'><tbody>
+<div>
+<center>
+<script type="text/javascript">
+addpage('url','');
+addpage('url','');
+addpage('url','');
+addpage('url','');
+addpage('url','');
+</script><br />
+<a href="javascript:void(showPrevious());">Prev</a>&nbsp;&nbsp;&nbsp;<span id="index"></span>&nbsp;&nbsp;&nbsp;<a href="javascript:void(showNext());">Next</a><br />
+<div align="center">
+<span id="caption"></span><br />
+<span id="page"></span><br />
+<a href="javascript:void(showPrevious());">Prev</a>&nbsp;&nbsp;&nbsp;<span id="index2"></span>&nbsp;&nbsp;&nbsp;<a href="javascript:void(showNext());">Next</a></div>
+<script language="javascript">
+initpage();
+</script>
+</tbody></table>
+<br />
+</center>
+</div>
